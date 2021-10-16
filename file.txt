@@ -1,4 +1,4 @@
-This is my repo
+This is my file
 This is the first session
-feature branch
-second change in feature branch
+Feature branch
+This is a second change in feature branch
